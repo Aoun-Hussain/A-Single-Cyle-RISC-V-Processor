@@ -1,0 +1,2 @@
+# A-Single-Cyle-RISC-V-Processor
+This is a public repository for a single cycle RISC-V processor capable of executing bubble sort. The processor consists of a 64 bit ALU. All file names are self explanatory. Change the instructions memory file to change the program to be executed. The processor is designed on Verilog and was simulated on ModelSim. The processor is capable of running the following instructions: Add, sub, addi, beq, blt, or, and, sd, ld.
